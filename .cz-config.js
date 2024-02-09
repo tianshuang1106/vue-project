@@ -15,6 +15,7 @@ module.exports = {
     { value: 'revert', name: 'revert:   回退' },
     { value: 'build', name: 'build:    打包' }
   ],
+
   scopes: [{ name: 'console' }],
   // 消息步骤
   messages: {
